@@ -1,0 +1,5 @@
+{
+  "name": "Personal Calendar",
+  "description": "A simple, login-free personal calendar application to manage your daily events.",
+  "requestFramePermissions": []
+}
